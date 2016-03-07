@@ -1,0 +1,1 @@
+/var/lib/condor/spool/history IN_MOVED_TO /usr/local/bin/condor_elasticsearch.sh $# main
